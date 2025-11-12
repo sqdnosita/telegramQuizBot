@@ -118,7 +118,7 @@ answers
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sqdnosita/telegramQuizBot.git
 cd telegram-quiz-bot
 ```
 
